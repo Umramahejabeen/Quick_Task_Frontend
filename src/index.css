@@ -79,7 +79,7 @@ body {
   font-family: "Segoe UI", system-ui, sans-serif;
 
   /* Modern gradient background */
-  background: linear-gradient(135deg, #070051, #a3a0fe);
+  background: linear-gradient(135deg, #434242, #000000);
 }
 
 /* CENTER CONTAINER */
@@ -142,7 +142,7 @@ body {
 }
 
 .form-control:focus {
-  border-color: #667eea;
+  border-color: #e8d6e2;
   box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.25);
 }
 
